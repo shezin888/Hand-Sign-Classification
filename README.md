@@ -22,6 +22,10 @@ It is really helpful for the mute people in the society to communicate to the re
 
 ## Output
 <img title="Hello" alt="hello" src="/hello.jpeg">
+<img title="iloveyou" alt="iloveyou" src="/iloveyou.jpeg">
+<img title="yes" alt="yes" src="/yes.jpeg">
+<img title="no" alt="no" src="/no.jpeg">
+
 
 ## Output with Future Scope
 
