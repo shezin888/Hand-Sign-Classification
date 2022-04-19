@@ -28,5 +28,5 @@ It is really helpful for the mute people in the society to communicate to the re
 
 
 ## Output with Future Scope
-<img title="future" alt="future" src="/future.jpeg">
+<img title="future" alt="future" src="/future.png">
 
